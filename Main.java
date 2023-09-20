@@ -39,7 +39,7 @@ public class Main {
                 return summa;
             }
             public static void main(String[] args) {
-                int summa = miniRäknare(6, 6);
+                int summa = miniRäknare(5, 5);
                 System.out.println("summan blir: " + summa );
             }
         }*/
